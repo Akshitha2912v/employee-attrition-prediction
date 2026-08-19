@@ -10,6 +10,12 @@ The project also includes an interactive Streamlit web application for making em
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Employee Attrition Prediction – Streamlit App](https://employee-attrition-prediction-o8jwlbrwyqzqcepsnxzb3b.streamlit.app/)
+
+---
+
 ## 🎯 Objectives
 
 - Analyze employee data and identify attrition patterns.
